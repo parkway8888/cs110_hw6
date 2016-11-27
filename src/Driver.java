@@ -9,8 +9,8 @@ public class Driver{
 		Rectangle h = new Rectangle(50, 60);
 		System.out.println("Area(h) = " + h.getArea());
 		double prep = 15.6;
-		System.out.println("15 factorial = " + Math.factorial((int)test));
-		System.out.println("15 factorial = " + Math.factorialLoop((int)test));
+		System.out.println("15 factorial = " + Math.factorial((int)prep));
+		System.out.println("15 factorial = " + Math.factorialLoop((int)prep));
 	}
 
 }
